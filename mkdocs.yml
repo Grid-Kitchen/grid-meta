@@ -1,6 +1,6 @@
 site_name: "Grid Meta Documentation"
-site_url: https://grid-atlas.github.io/grid-meta
-repo_url: https://github.com/Grid-Atlas/grid-meta
+site_url: https://grid-kitchen.github.io/grid-meta
+repo_url: https://github.com/Grid-Kitchen/grid-meta
 theme: 
   name: material
   logo: assets/logo.png
