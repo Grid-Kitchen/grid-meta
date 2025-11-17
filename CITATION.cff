@@ -11,8 +11,8 @@ authors:
     given-names: Alexander
   - family-names: Sadnam
     given-names: Rabayet
-repository-code: 'https://github.com/Grid-Atlas/grid-meta'
-url: 'https://grid-atlas.github.io/grid-meta'
+repository-code: 'https://github.com/Grid-Kitchen/grid-meta'
+url: 'https://grid-kitchen.github.io/grid-meta'
 abstract: >-
   A light weight Python Package for extracting metadata from OpenDSS model.
 
