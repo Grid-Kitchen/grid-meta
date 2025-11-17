@@ -1,11 +1,11 @@
 # Getting Started with `grid-meta`
 
-[![Build](https://github.com/Grid-Atlas/grid-meta/actions/workflows/ci.yml/badge.svg)](https://github.com/Grid-Atlas/grid-meta/actions/workflows/ci.yml)
+[![Build](https://github.com/Grid-Kitchen/grid-meta/actions/workflows/ci.yml/badge.svg)](https://github.com/Grid-Kitchen/grid-meta/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/pypi/pyversions/gridmeta)
-![License](https://img.shields.io/github/license/Grid-Atlas/grid-meta)
-![Coverage](https://img.shields.io/codecov/c/github/Grid-Atlas/grid-meta)
+![License](https://img.shields.io/github/license/Grid-Kitchen/grid-meta)
+![Coverage](https://img.shields.io/codecov/c/github/Grid-Kitchen/grid-meta)
 
-[View Full Documentation.](https://grid-atlas.github.io/grid-meta).
+[View Full Documentation.](https://grid-kitchen.github.io/grid-meta).
 
 Welcome! Follow the steps below to get `grid-meta` up and running locally.  
 We recommend using a Python virtual environment for a clean install 🔒🐍.
